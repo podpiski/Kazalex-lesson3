@@ -1,0 +1,34 @@
+﻿
+h1{
+   color: blueviolet;
+}
+h2{
+   color: brown;
+}
+.trajectory{
+   color: burlywood;
+}
+.trajectory__text{
+   color: cadetblue;
+}
+.trajectory__list{
+   color: crimson;
+}
+p{
+   color: darkblue;
+}
+ul{
+   color: darkgreen;
+}
+.trajectory__list .point{
+   color: beige;
+}
+.trajectory__list .trajectory__list__point1{
+   color: red;
+}
+.let__list{
+   color: chocolate;
+}
+.let__list__point1+li{
+   color: plum;
+}
